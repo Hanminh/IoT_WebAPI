@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Project\\IoT\\API_Test\\HustIoT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Migrations\\20241208154728_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HustIoT\\Migrations\\20241208154728_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\properties\\publishprofiles\\ftpprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\properties\\publishprofiles\\ftpprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\controllers\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\controllers\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|d:\\project\\iot\\api_test\\hustiot\\hustiot\\controllers\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A253A1DF-EFCB-45ED-A391-12072FE675BB}|HustIoT\\HustIoT.csproj|solutionrelative:hustiot\\controllers\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,41 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241208154728_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Migrations\\20241208154728_InitialCreate.cs",
-              "RelativeDocumentMoniker": "HustIoT\\Migrations\\20241208154728_InitialCreate.cs",
-              "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Migrations\\20241208154728_InitialCreate.cs",
-              "RelativeToolTip": "HustIoT\\Migrations\\20241208154728_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:47:28.571Z",
+              "Title": "FTPProfile.pubxml",
+              "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "RelativeDocumentMoniker": "HustIoT\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "RelativeToolTip": "HustIoT\\Properties\\PublishProfiles\\FTPProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-15T08:57:12.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CoordinatesController.cs",
               "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Controllers\\CoordinatesController.cs",
               "RelativeDocumentMoniker": "HustIoT\\Controllers\\CoordinatesController.cs",
               "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Controllers\\CoordinatesController.cs",
               "RelativeToolTip": "HustIoT\\Controllers\\CoordinatesController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwDwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T11:33:18.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Program.cs",
               "RelativeDocumentMoniker": "HustIoT\\Program.cs",
               "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Program.cs",
               "RelativeToolTip": "HustIoT\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:32:13.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:32:13.119Z"
             },
             {
               "$type": "Document",
@@ -87,36 +86,33 @@
               "RelativeDocumentMoniker": "HustIoT\\Models\\Coordinate.cs",
               "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Models\\Coordinate.cs",
               "RelativeToolTip": "HustIoT\\Models\\Coordinate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:31:21.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:31:21.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HustIoT\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "HustIoT\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:18:40.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\appsettings.json",
               "RelativeDocumentMoniker": "HustIoT\\appsettings.json",
               "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\appsettings.json",
               "RelativeToolTip": "HustIoT\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T11:15:11.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:15:11.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HustIoT\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Project\\IoT\\API_Test\\HustIoT\\HustIoT\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HustIoT\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:18:40.298Z"
             }
           ]
         }

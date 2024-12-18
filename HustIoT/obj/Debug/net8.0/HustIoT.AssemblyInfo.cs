@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HustIoT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9177d0cdc2ed25e3f0bf1f0c70fcb28dde4e5be")]
 [assembly: System.Reflection.AssemblyProductAttribute("HustIoT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HustIoT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

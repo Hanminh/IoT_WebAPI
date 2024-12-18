@@ -163,10 +163,11 @@ D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets\msbuild
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HustIoT.props
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HustIoT.props
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\HustIoT.csproj.Up2Date
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\HustIoT.dll
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\refint\HustIoT.dll
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\HustIoT.pdb
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\HustIoT.genruntimeconfig.cache
 D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\ref\HustIoT.dll
+D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\HustIoT.sourcelink.json
+D:\Project\IoT\API_Test\HustIoT\HustIoT\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

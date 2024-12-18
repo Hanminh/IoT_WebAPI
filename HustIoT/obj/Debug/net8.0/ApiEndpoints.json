@@ -2,7 +2,7 @@
   {
     "ContainingType": "HustIoT.Controllers.CoordinatesController",
     "Method": "GetByDay",
-    "RelativePath": "by-date",
+    "RelativePath": "iot/by-date",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "HustIoT.Controllers.CoordinatesController",
     "Method": "GetById",
-    "RelativePath": "by-id",
+    "RelativePath": "iot/by-id",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -33,8 +33,44 @@
   },
   {
     "ContainingType": "HustIoT.Controllers.CoordinatesController",
+    "Method": "DeleteAll",
+    "RelativePath": "iot/delete-all",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HustIoT.Controllers.CoordinatesController",
+    "Method": "Delete",
+    "RelativePath": "iot/delete-by-id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HustIoT.Models.Coordinate",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HustIoT.Controllers.CoordinatesController",
     "Method": "GetAll",
-    "RelativePath": "get-all",
+    "RelativePath": "iot/get-all",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,11 +80,89 @@
   {
     "ContainingType": "HustIoT.Controllers.CoordinatesController",
     "Method": "GetLatest",
-    "RelativePath": "latest",
+    "RelativePath": "iot/latest",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HustIoT.Controllers.CoordinatesController",
+    "Method": "CreateMultiple",
+    "RelativePath": "iot/multi-coordinates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coordinates",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HustIoT.Models.Coordinate, HustIoT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HustIoT.Models.Coordinate, HustIoT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HustIoT.Controllers.CoordinatesController",
+    "Method": "Update",
+    "RelativePath": "iot/put-id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coordinate",
+        "Type": "HustIoT.Models.Coordinate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HustIoT.Models.Coordinate",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HustIoT.Controllers.CoordinatesController",
+    "Method": "Create",
+    "RelativePath": "iot/single-coordinate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "coordinate",
+        "Type": "HustIoT.Models.Coordinate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HustIoT.Models.Coordinate",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
